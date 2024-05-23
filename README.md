@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Leon Simintei </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>I'm Simintei Leon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Lets+Go..&hearts;++;Self-taught+Front-End+Developer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -17,8 +17,15 @@
 
 <br>
 
-- A passionate Self-taught Front-end and back-end developer 
-- I’m currently open for an Intern or a new job opportunity.
+I'm Simintei Leon, a passionate software developer on a journey of continuous learning and growth. Currently, I'm diving deep into the world of backend development while honing my skills in frontend technologies.
+
+With a solid foundation in frontend development, I thrive on crafting intuitive and engaging user experiences. From responsive designs to interactive interfaces, I love bringing ideas to life in the digital space.
+
+ My heart truly belongs to backend development, where I find joy in architecting robust systems and solving complex problems. Whether it's designing scalable APIs or optimizing database performance, I'm always up for a challenge.
+
+As a lifelong learner, I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape. I believe in the power of collaboration and open-source, and I'm eager to contribute to meaningful projects that make a difference.
+
+Let's connect and build something awesome together! Feel free to reach out for collaboration opportunities or just to geek out about coding.
 
 <br><br>
 
